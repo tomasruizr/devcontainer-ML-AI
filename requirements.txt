@@ -1,1 +1,8 @@
-flask
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+theano
+tensorflow
+keras
