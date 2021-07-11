@@ -6,3 +6,4 @@ pandas
 theano
 tensorflow
 keras
+ipython
